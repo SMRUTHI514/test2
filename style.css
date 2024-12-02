@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.icon{
+    margin-right: 10px;
+    padding-left: 10px;
+}
+.navbar-expand{
+    background-color: white;
+}
+.carousel{
+    padding: 20px;
+}
+.card{
+    margin-top: -50 px;
+
+    
+}
